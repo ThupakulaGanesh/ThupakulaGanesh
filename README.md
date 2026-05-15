@@ -1,4 +1,10 @@
+# 💫 Hi 👋, I'm T Ganesh
+**A passionate Python Developer || Data Analyst || Data Science || Full Stack Developer**
 
+- 🌱 **I’m currently learning:** Python,Data Science
+- 📫 **How to reach me:** gthupakula47@gmail.com
+- 😄 **Pronouns:** Ganesh
+- ⚡ **Fun fact:** I Love Badminton
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ganesh_royal_0303/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thupakula-ganesh-3a8600257/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ganeshwaite126) ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gthupakula47@gmail.com) 
 
